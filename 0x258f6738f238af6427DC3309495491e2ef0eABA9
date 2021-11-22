@@ -1,0 +1,14 @@
+
+{
+ "name": "collis",
+ "website": "http://www.collis.top",
+ "description": "collis是在heco链上构建的社区模型代币，极致通缩燃烧百分之90-99%， 该令牌完全由社区驱动，
+collis持有者可通过市场交易获得部分被动奖励，通过平台研发的nft游戏，投票治理获得代币奖励，
+ collis打造的是去中心化金融DeFi+质押挖矿+NFT生态+元宇宙+ DOA投票治理。",
+ "explorer": "https://hecoinfo.com/address/0x258f6738f238af6427DC3309495491e2ef0eABA9",
+ "type": "HECO",
+ "symbol": "collis",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x258f6738f238af6427DC3309495491e2ef0eABA9"
+}
